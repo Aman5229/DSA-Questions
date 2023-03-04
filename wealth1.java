@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/richest-customer-wealth/
 class wealth1
 {
 	public static void main(String args[])
