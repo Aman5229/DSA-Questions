@@ -1,4 +1,4 @@
-// FIND THE CEILING OF THE SORTED ARRAY
+// FIND THE CEILING OF A NUMBER IN  SORTED ARRAY
 class Ceiling
 {
 	public static void main(String args[])
